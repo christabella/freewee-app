@@ -1,0 +1,6 @@
+2 Mar 03:04:00 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:8] Starting app in clustered mode
+2 Mar 03:04:00 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #1 listening on port: 3000
+2 Mar 03:04:00 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #4 listening on port: 3000
+2 Mar 03:04:00 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #2 listening on port: 3000
+2 Mar 03:04:00 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #3 listening on port: 3000
+error: Forever detected script was killed by signal: SIGKILL
