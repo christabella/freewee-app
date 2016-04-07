@@ -44,7 +44,7 @@
     "yaml": "*"
   },
   "scripts": {
-    "start": "npm install forever -g && npm install supervisor -g && ./bin/start.sh",
+    "start": "npm install forever -g && ./bin/start.sh",
     "dev": "./bin/dev_start.sh",
     "test": "mocha --bail test/ test/acceptance/",
     "pretest": "jshint lib test",
