@@ -115,7 +115,7 @@ fi
 # Now that we know there is no old version running, let's start the processes
 
 if [ $NODE_HOT_RELOAD -eq 0 ]; then
-    NCMD="forever start"
+    NCMD="forever start --minUptime 1000 --spinSleepTime 10000"
     NCMD="$NCMD -a"
     NCMD="$NCMD -l $NODE_LOG_DIR/forever.log"
     NCMD="$NCMD -o $NODE_LOG_DIR/out.log"
