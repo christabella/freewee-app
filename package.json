@@ -36,7 +36,6 @@
     "lodash": "^4.3.0",
     "metalogger": "*",
     "nodebootstrap-htmlapp": "*",
-    "nodebootstrap-server": "*",
     "path": "^0.12.7",
     "phaser": "^2.4.6",
     "serve-favicon": "^2.3.0",
