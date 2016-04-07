@@ -4,3 +4,21 @@
 2 Mar 03:04:00 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #2 listening on port: 3000
 2 Mar 03:04:00 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #3 listening on port: 3000
 error: Forever detected script was killed by signal: SIGKILL
+7 Apr 11:13:18 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:8] Starting app in clustered mode
+7 Apr 11:13:19 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #1 listening on port: 3000
+7 Apr 11:13:19 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #2 listening on port: 3000
+7 Apr 11:13:19 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #3 listening on port: 3000
+7 Apr 11:13:19 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #4 listening on port: 3000
+A user connected
+error: Forever detected script was killed by signal: SIGKILL
+7 Apr 11:13:50 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:8] Starting app in clustered mode
+7 Apr 11:13:50 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #4 listening on port: 3000
+7 Apr 11:13:50 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #2 listening on port: 3000
+7 Apr 11:13:50 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #3 listening on port: 3000
+7 Apr 11:13:50 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #1 listening on port: 3000
+A user connected
+A user connected
+Room ID: 7760created
+{ '7760': true }
+A user connected
+error: Forever detected script was killed by signal: SIGKILL
