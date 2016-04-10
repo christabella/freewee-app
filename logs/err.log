@@ -1,0 +1,210 @@
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)

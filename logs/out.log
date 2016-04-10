@@ -19,3 +19,72 @@ A user connected
 Room ID: 7760created
 { '7760': true }
 A user connected
+7 Apr 11:19:19 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:8] Starting app in clustered mode
+7 Apr 11:19:20 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #1 listening on port: 3000
+7 Apr 11:19:20 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #2 listening on port: 3000
+7 Apr 11:19:20 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #4 listening on port: 3000
+7 Apr 11:19:20 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #3 listening on port: 3000
+A user connected
+A user connected
+A user connected
+A user connected
+7 Apr 11:21:14 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:8] Starting app in clustered mode
+7 Apr 11:21:15 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #4 listening on port: 3000
+7 Apr 11:21:15 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #2 listening on port: 3000
+7 Apr 11:21:15 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #1 listening on port: 3000
+7 Apr 11:21:15 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #3 listening on port: 3000
+A user connected
+A user connected
+Room ID: 8160created
+{ '8160': true }
+A user connected
+A user connected
+A user connected
+7 Apr 11:32:20 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:8] Starting app in clustered mode
+7 Apr 11:32:21 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #1 listening on port: 3000
+7 Apr 11:32:21 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #3 listening on port: 3000
+7 Apr 11:32:21 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #2 listening on port: 3000
+7 Apr 11:32:21 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #4 listening on port: 3000
+A user connected
+A user connected
+A user connected
+A user connected
+A user connected
+Room ID: 9902created
+{ '9902': true }
+A user connected
+7 Apr 12:06:20 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:8] Starting app in clustered mode
+7 Apr 12:06:22 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #1 listening on port: 3000
+7 Apr 12:06:22 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #4 listening on port: 3000
+7 Apr 12:06:22 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #3 listening on port: 3000
+7 Apr 12:06:22 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #2 listening on port: 3000
+A user connected
+A user connected
+A user connected
+7 Apr 12:07:44 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:8] Starting app in clustered mode
+7 Apr 12:07:45 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #2 listening on port: 3000
+7 Apr 12:07:45 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #1 listening on port: 3000
+7 Apr 12:07:45 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #4 listening on port: 3000
+7 Apr 12:07:45 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #3 listening on port: 3000
+A user connected
+A user connected
+A user connected
+A user connected
+A user connected
+A user connected
+Room ID: 2617created
+{ '2617': true }
+7 Apr 19:39:57 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:8] Starting app in clustered mode
+7 Apr 19:39:58 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #1 listening on port: 3000
+7 Apr 19:39:58 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #3 listening on port: 3000
+7 Apr 19:39:58 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #2 listening on port: 3000
+7 Apr 19:39:58 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #4 listening on port: 3000
+7 Apr 19:48:12 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:8] Starting app in clustered mode
+7 Apr 19:48:13 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #1 listening on port: 3000
+7 Apr 19:48:13 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #2 listening on port: 3000
+7 Apr 19:48:13 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #3 listening on port: 3000
+7 Apr 19:48:13 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #4 listening on port: 3000
+A user connected
+Room ID: 3729created
+{ '3729': true }
+A user connected

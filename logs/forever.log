@@ -22,3 +22,317 @@ Room ID: 7760created
 { '7760': true }
 A user connected
 error: Forever detected script was killed by signal: SIGKILL
+7 Apr 11:19:19 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:8] Starting app in clustered mode
+7 Apr 11:19:20 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #1 listening on port: 3000
+7 Apr 11:19:20 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #2 listening on port: 3000
+7 Apr 11:19:20 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #4 listening on port: 3000
+7 Apr 11:19:20 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #3 listening on port: 3000
+A user connected
+A user connected
+A user connected
+A user connected
+error: Forever detected script was killed by signal: SIGKILL
+7 Apr 11:21:14 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:8] Starting app in clustered mode
+7 Apr 11:21:15 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #4 listening on port: 3000
+7 Apr 11:21:15 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #2 listening on port: 3000
+7 Apr 11:21:15 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #1 listening on port: 3000
+7 Apr 11:21:15 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #3 listening on port: 3000
+A user connected
+A user connected
+Room ID: 8160created
+{ '8160': true }
+A user connected
+A user connected
+A user connected
+error: Forever detected script was killed by signal: SIGKILL
+7 Apr 11:32:20 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:8] Starting app in clustered mode
+7 Apr 11:32:21 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #1 listening on port: 3000
+7 Apr 11:32:21 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #3 listening on port: 3000
+7 Apr 11:32:21 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #2 listening on port: 3000
+7 Apr 11:32:21 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #4 listening on port: 3000
+A user connected
+A user connected
+A user connected
+A user connected
+A user connected
+Room ID: 9902created
+{ '9902': true }
+A user connected
+error: Forever detected script was killed by signal: SIGKILL
+7 Apr 12:06:20 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:8] Starting app in clustered mode
+7 Apr 12:06:22 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #1 listening on port: 3000
+7 Apr 12:06:22 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #4 listening on port: 3000
+7 Apr 12:06:22 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #3 listening on port: 3000
+7 Apr 12:06:22 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #2 listening on port: 3000
+A user connected
+A user connected
+A user connected
+error: Forever detected script was killed by signal: SIGKILL
+7 Apr 12:07:44 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:8] Starting app in clustered mode
+7 Apr 12:07:45 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #2 listening on port: 3000
+7 Apr 12:07:45 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #1 listening on port: 3000
+7 Apr 12:07:45 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #4 listening on port: 3000
+7 Apr 12:07:45 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #3 listening on port: 3000
+A user connected
+A user connected
+A user connected
+A user connected
+A user connected
+A user connected
+Room ID: 2617created
+{ '2617': true }
+error: Forever detected script was killed by signal: SIGKILL
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #2
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #3
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #4
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #5
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #6
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #7
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #8
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #9
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #10
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #11
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #12
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #13
+/Users/bella/repos/freewee/freewee/node_modules/nodebootstrap-server/app.js:49
+    log.notice("Express server instance listening on port " + npm ERR! code ELIFECYCLE + " OR " + CONF.app.port);
+                                                              ^^^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:414:25)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:313:12)
+    at Module.require (module.js:366:17)
+    at require (module.js:385:17)
+    at Object.<anonymous> (/Users/bella/repos/freewee/freewee/server.js:5:17)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #14
+7 Apr 19:39:57 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:8] Starting app in clustered mode
+7 Apr 19:39:58 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #1 listening on port: 3000
+7 Apr 19:39:58 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #3 listening on port: 3000
+7 Apr 19:39:58 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #2 listening on port: 3000
+7 Apr 19:39:58 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #4 listening on port: 3000
+error: Forever detected script was killed by signal: SIGKILL
+7 Apr 19:48:12 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:8] Starting app in clustered mode
+7 Apr 19:48:13 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #1 listening on port: 3000
+7 Apr 19:48:13 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #2 listening on port: 3000
+7 Apr 19:48:13 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #3 listening on port: 3000
+7 Apr 19:48:13 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #4 listening on port: 3000
+A user connected
+Room ID: 3729created
+{ '3729': true }
+A user connected
+error: Forever detected script was killed by signal: SIGKILL
