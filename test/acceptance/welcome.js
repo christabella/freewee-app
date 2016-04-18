@@ -58,20 +58,20 @@ var chatUser3 = {'name':'Dana'};
 
 var server = require('../support/server');
 
-describe('Game Screen-to-Server Socket Communication', function(){
+describe('socket communication', function(){
   var gameScreenSocket;
   var controllerSocket;
   beforeEach(function(done) {
     // Setup
-    console.log('Establishing connection');
+    console.log('...establishing socket connection...');
     gameScreenSocket = io.connect(socketURL, options);
     controllerSocket = io.connect(socketURL, options);
 
     gameScreenSocket.on('connect', function() {
-      console.log('...game screen socket.io client successfully connected...');
+      // console.log('...game screen socket.io client successfully connected...');
     });
     controllerSocket.on('connect', function() {
-      console.log('...controller socket.io client successfully connected...');
+      // console.log('...controller socket.io client successfully connected...');
     });
     done();
   });
@@ -83,9 +83,8 @@ describe('Game Screen-to-Server Socket Communication', function(){
         username: "bella"
       }) // type = 'controller' now
     gameScreenSocket.on('synchronizer-join', function(data){
-      console.log('received');
-      done();
     });
+    done();
   })
 
   it('controller client can join room', function(done){
@@ -93,8 +92,7 @@ describe('Game Screen-to-Server Socket Communication', function(){
         id: 1234,
         username: "bella"
       }) // type = 'controller' now
-    gameScreenSocket.on('synchronizer-join', function(data){
-      console.log('received');
+    controllerSocket.on('synchronizer-join', function(data){
       done();
     });
   })
