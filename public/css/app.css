@@ -28,3 +28,32 @@
   padding-top: 30px;
   padding-bottom: 30px;
 }
+
+#wrapper {
+
+}
+.container{
+  padding:10px;
+}
+
+.scale-sumo{
+  width:25%;
+}
+
+.circle{
+  background-color: #c06;
+  border: 3px solid #000;
+  height:100px;
+  width:100px;
+  border-radius:50px;
+  position:relative;
+  margin-left:40%;
+}
+
+.circle:hover {
+  background-color:#f9ff21;
+}
+
+.circle:active{
+  background-color:#62f464;
+}
