@@ -355,3 +355,4 @@ error: Forever detected script was killed by signal: SIGKILL
 20 Apr 23:19:03 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #2 listening on port: 3000
 20 Apr 23:19:03 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #3 listening on port: 3000
 20 Apr 23:19:03 - NOTICE  [node_modules/nodebootstrap-clustering/clustering.js:25] Worker #4 listening on port: 3000
+error: Forever detected script was killed by signal: SIGKILL
