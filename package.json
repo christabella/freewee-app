@@ -45,7 +45,8 @@
     "yaml": "*"
   },
   "scripts": {
-    "start": "npm install supervisor -g && ./bin/heroku_start.sh",
+    "start": "./bin/start.sh",
+    "old-start": "npm install supervisor -g && ./bin/heroku_start.sh",
     "dev": "./bin/dev_start.sh",
     "test": "mocha --bail test/ test/acceptance/",
     "pretest-2": "jshint lib test",

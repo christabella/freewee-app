@@ -28,24 +28,24 @@
 
     {{!-- SCREEN WHILE IN LOBBY --}}
     <section id="controller0" style="display:none">
-      <h2 class="displayusername text-center bg-info"></h2>
+      <h2 class="displayusername text-center"></h2>
       <img src="" class="img-responsive center-block displaysumo" />
       
     </section>
 
     {{!-- SUMO CONTROLLER --}}
     <section id="controller1" style="display:none">
-      <h2 class="displayusername"></h2>
+      <h2 class="displayusername text-center"></h2>
       <img src="" class="img-responsive center-block displaysumo" />
 
-      <div class="row">
+      <!--<div class="row">
         <div class="col-xs-6 center-block">
           <button class="synchronizer-button btn btn-default btn-xl btn-info center-block" id="UP">UP</button>
         </div>
         <div class="col-xs-6 center-block">
           <button class="synchronizer-button btn btn-default btn-xl btn-info center-block" id="DOWN">DOWN</button>
         </div>
-      </div>
+      </div>-->
       </section>
       
       {{!-- snake 3 buttons --}}
@@ -54,7 +54,7 @@
       <div id="wrapper">
 
         <div class="container">
-          <button class="synchronizer-button circle center-block" id="2">click me!</button>
+          <button class="synchronizer-button circle center-block" id="2"></button>
         </div>
         
         <div class="container">
@@ -67,17 +67,16 @@
         
       </div>
 
-      <h2 class="displayusername"></h2>
+      <h2 class="displayusername text-center"></h2>
       <div class="scale-sumo center-block"> <img src="" class="img-responsive center-block displaysumo" /> </div>
       
     </section>
 
     {{!-- PLANET GAME CONTROLLER --}}
     <section id="controller3" style="display:none">
-          <h2 class="displayusername"></h2>
+          <h2 class="displayusername text-center"></h2>
           
           <div id="bg" class="displaysumobg" style="
-              background-image: url(/img/lobby/sumoPlayer0.png);
               background-size: 100%;
               background-repeat: no-repeat;
               background-position: center;
