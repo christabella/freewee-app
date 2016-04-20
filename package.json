@@ -45,7 +45,7 @@
     "yaml": "*"
   },
   "scripts": {
-    "start": "npm install forever -g && ./bin/start.sh",
+    "start": "./bin/new_start.sh",
     "old-start": "npm install supervisor -g && ./bin/heroku_start.sh",
     "dev": "./bin/dev_start.sh",
     "test": "mocha --bail test/ test/acceptance/",
